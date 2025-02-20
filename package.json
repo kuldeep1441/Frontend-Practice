@@ -1,0 +1,46 @@
+{
+  "name": "altera-partner",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@hookform/resolvers": "^3.9.1",
+    "@iconify/react": "^5.1.0",
+    "@mui/material": "^6.2.0",
+    "@reduxjs/toolkit": "^2.5.0",
+    "anychart": "^8.13.0",
+    "anychart-react": "^1.4.1",
+    "apexcharts": "^4.3.0",
+    "axios": "^1.7.9",
+    "next": "15.1.0",
+    "react": "^19.0.0",
+    "react-apexcharts": "^1.7.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.1",
+    "react-icons": "^5.4.0",
+    "react-redux": "^9.2.0",
+    "react-toastify": "^11.0.2",
+    "recharts": "^2.15.0",
+    "redux-persist": "^6.0.0",
+    "swiper": "^11.1.15",
+    "yup": "^1.6.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
